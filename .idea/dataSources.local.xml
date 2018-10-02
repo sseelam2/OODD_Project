@@ -46,5 +46,15 @@
       <auth-required>false</auth-required>
       <first-sync>true</first-sync>
     </data-source>
+    <data-source name="postgres@localhost" uuid="3da53671-22ba-4ed1-a9d6-6288aec9be05">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" family="POSTGRES" exact-version="0.0" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="postgres@localhost [2]" uuid="cc62fddd-1d22-45c5-9e35-e5de30b6f1ac">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" family="POSTGRES" exact-version="0.0" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+    </data-source>
   </component>
 </project>
